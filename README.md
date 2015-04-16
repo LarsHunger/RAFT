@@ -1,7 +1,7 @@
-TBARF
+RAFT
 =====
 
-Turning Band Random Field Generator on the GPU
+RAndom Field generation with the Turning band method
 
 
 This work is a preliminary version of the fast 3D Gaussian random field generator based on the turning band algorithm. This is a prototype beta release for Windows released under LGPL license. It internally uses FFTW and cuFFT.
