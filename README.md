@@ -15,7 +15,7 @@ If using it, please add a reference to this paper:
   booktitle = {European Conference on Parallel Processing (Euro-Par)},
   year      = {2014},
   pages     = {656-667},
-  url       = {https://github.com/LarsHunger/TBARF}
+  url       = {https://github.com/LarsHunger/RAFT}
 }
 
 
